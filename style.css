@@ -1,0 +1,22 @@
+body, input {
+    background-color: #7ec0ee;
+    color: #fff;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+input {
+    font-size: 110%;
+    border: 1px solid #fff;
+}
+img {
+    zoom: 33%;
+}
+#container, #error {
+    display: none;
+}
+#content {
+    margin-top: 3em;
+}
+.item {
+    margin: 0.5em;
+}
